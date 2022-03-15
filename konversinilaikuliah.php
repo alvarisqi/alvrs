@@ -22,10 +22,10 @@
         echo "Konversi nilai = C";
     } else if ($nilai >= 50 and $nilai <= 59) {
         echo "Konversi nilai = D";
-    } else if ($nilai <= 50) {
+    } else if ($nilai >= 0 and $nilai <= 50) {
         echo "Konversi nilai = E";
     } else {
-        echo "Nilai tidak valid!";
+        echo "EMOTIONAL DAAAAMAGE!";
     }
 
 ?>
