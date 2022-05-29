@@ -13,7 +13,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <h2 class="mt-5 mb-3">“Anda Tidak Memiliki Akses Ke Halaman Ini!”</h2>
-                        <div align="center" class="alert alert-danger">nomor atau password salah, silakan <a href="FormLogin.php" class="alert-link">login </a> kembali.</div>
+                        <div align="center" class="alert alert-danger">anda belum login, silakan <a href="FormLogin.php" class="alert-link">login </a> terlebih dahulu.</div>
                     </div>
                 </div>        
             </div>
